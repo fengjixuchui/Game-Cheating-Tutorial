@@ -18,10 +18,20 @@
 
 3.驱动
 
+4.Apex Legends
+
 ## 未来计划 :pushpin:
 其它游戏相关教程
 
 ## 联系作者 :memo: 
+以下情况的就不要加我啦 : 
+
+1 - 一上来就要我教你什么,人与人之间的礼貌呢
+
+2 - 易语言问题,很抱歉我不会易语言
+
+3 - 编译问题,有一种东西叫搜索引擎
+
 QQ : 2653290887
 
 ## 支持作者 :two_hearts:
@@ -63,6 +73,12 @@ QQ : 2653290887
 
 [DisableWin10PatchguardPoc](https://github.com/killvxk/DisableWin10PatchguardPoc)
 
+[PPLKiller](https://github.com/Mattiwatti/PPLKiller)
+
+[ByePg](https://github.com/can1357/ByePg)
+
+[Stryker](https://github.com/hfiref0x/Stryker)
+
 ## 内核读写驱动
 [Kernel_Driver_Hack](https://github.com/TheCruZ/Kernel_Driver_Hack)
 
@@ -79,6 +95,8 @@ QQ : 2653290887
 [Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge)
 
 [memdrv](https://github.com/SamuelTulach/memdrv)
+
+[MdlReadWriteProcess-MDL](https://github.com/rring0/MdlReadWriteProcess-MDL-)
 
 ## DLL注入软件
 [Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT)
@@ -102,15 +120,35 @@ QQ : 2653290887
 
 [LSASS-Usermode-Bypass](https://github.com/ContionMig/LSASS-Usermode-Bypass)
 
+## 特殊内存读写
+[dma_ip_drivers](https://github.com/Xilinx/dma_ip_drivers)
+
+[pcileech](https://github.com/ufrisk/pcileech)
+
 ## 绕过游戏反调试
 [ScyllaHide](https://github.com/x64dbg/ScyllaHide)
+
+[Mirage](https://github.com/stonedreamforest/Mirage)
+
+## 反调试
+[Anti-debug](https://github.com/jguo52/Anti-debug)
+
+## 挂钩IOCTL
+[CTL-hook](https://github.com/jguo52/IOCTL-hook)
+
+## 异或字符串
+[xorstr](https://github.com/JustasMasiulis/xorstr)
+
+## 驱动级隐藏
+[MasterHide](https://github.com/crvvdev/MasterHide)
+
+## 驱动挂钩
+[KasperskyHook](https://github.com/iPower/KasperskyHook)
 
 ## 帮助库
 [nt_wrapper](https://github.com/JustasMasiulis/nt_wrapper)
 
 [KDU](https://github.com/hfiref0x/KDU)
-
-[KasperskyHook](https://github.com/iPower/KasperskyHook)
 
 [TitanHide](https://github.com/mrexodia/TitanHide)
 
@@ -118,11 +156,27 @@ QQ : 2653290887
 
 [minhook](https://github.com/TsudaKageyu/minhook)
 
+[ghidra](https://github.com/NationalSecurityAgency/ghidra)
+
+[cutter](https://github.com/radareorg/cutter)
+
+[Detours](https://github.com/microsoft/Detours)
+
+[ReClass.NET](https://github.com/ReClassNET/ReClass.NET)
+
 ## 反汇编
 [zydis](https://github.com/zyantific/zydis)
 
 ## 挂钩库
 [HookLib](https://github.com/HoShiMin/HookLib)
+
+[DdiMon](https://github.com/tandasat/DdiMon)
+
+[HyperPlatform](https://github.com/tandasat/HyperPlatform)
+
+[kernelhook](https://github.com/adrianyy/kernelhook)
+
+[HyperBone](https://github.com/DarthTon/HyperBone)
 
 ## 字符串加密
 [skCrypter](https://github.com/skadro-official/skCrypter)
@@ -132,8 +186,17 @@ QQ : 2653290887
 
 [HideDriver](https://github.com/Sqdwr/HideDriver)
 
+## 驱动枚举
+[WinObjEx64](https://github.com/hfiref0x/WinObjEx64)
+
+## 清除跟踪痕迹
+[TraceCleaner](https://github.com/BadPlayer555/TraceCleaner)
+
 ## CSGO偏移
 [hazedumper](https://github.com/frk1/hazedumper/blob/master/csgo.hpp)
+
+## CSGO作弊介绍
+[master-guide](https://github.com/csgohacks/master-guide)
 
 ## 绕过BattlEye检测
 [Splendid Implanter](https://github.com/haram/splendid_implanter)
@@ -142,8 +205,15 @@ QQ : 2653290887
 
 [BE-Bypass](https://github.com/UCRaptor/BE-Bypass)
 
+[BEDaisy](https://github.com/Aki2k/BEDaisy)
+
+## 内核挂钩绘制
+[dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook)
+
 ## UEFI
 [umap](https://github.com/btbd/umap)
+
+[dreamboot](https://github.com/quarkslab/dreamboot)
 
 ## 绕过EAC检测
 [EAC_dbp](https://github.com/Schnocker/EAC_dbp)
@@ -183,6 +253,8 @@ QQ : 2653290887
 
 [Gladiatorcheatz-v2.1](https://github.com/sstokic-tgm/Gladiatorcheatz-v2.1)
 
+[norsefire](https://github.com/nbqofficial/norsefire)
+
 ## R6辅助
 [R6SDK](https://github.com/weak1337/R6SDK)
 
@@ -207,8 +279,9 @@ QQ : 2653290887
 
 ## 相关网站
 
-[ 一号选手 - 英文 ](https://www.unknowncheats.me/forum/index.php):一个国外的辅助论坛，CSGO、使命、APEX、CF.....的源码、地址、偏移、思路.......
+[ 一号选手 - 英文 ](https://www.unknowncheats.me/forum/index.php) : 国外的全能型辅助论坛
 
-[ 二号选手 - 英文 ](https://guidedhacking.com/):
-这是一个真正游戏作弊教程网站
+[ 二号选手 - 英文 ](https://guidedhacking.com/) : 真正的游戏作弊教程网站
+
+[ 三号选手 - 英文 ](https://void.to) : CSGO游戏的免费Hvh论坛
 
